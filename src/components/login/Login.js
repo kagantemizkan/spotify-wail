@@ -7,7 +7,7 @@ import Footer from "../footer/Footer";
 export default function Login() {
   const handleClick = () => {
     const clientId = "6303653d18084bdf98da2d19aafc0e63";
-    const redirectUrl = "http://localhost:3000/";
+    const redirectUrl = "http://wail.unaux.com/";
     const apiUrl = "https://accounts.spotify.com/authorize";
     const scope = [
       "user-read-email",

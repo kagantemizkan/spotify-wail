@@ -1,5 +1,6 @@
 {
   "name": "spotify-wail",
+  "homepage": "http://wail.unaux.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

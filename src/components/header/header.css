@@ -1,0 +1,51 @@
+.header {
+    background-color: black;
+    color: white;
+}
+
+.headerContent {
+    display: flex;
+    align-items: center;
+}
+
+.spotifyWail {
+    color: aliceblue;
+    display: flex;
+    align-items:center;
+    font-family: 'Helvetica', sans-serif;
+    font-style: bold;
+    margin-left: 105px;
+    font-size: large;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.headerListExit {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 700px;
+    display: flex;
+    align-items:center;
+    font-weight: bold;
+}
+
+
+
+.headerListAbout {
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.headerListAbout:hover {
+    color: orange;
+    cursor: pointer;
+}
+
+.headerListExit:hover {
+    color: orange;
+    cursor: pointer;
+}
+
+

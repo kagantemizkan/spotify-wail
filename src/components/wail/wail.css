@@ -1,0 +1,24 @@
+.track {
+    display: flex;  
+    justify-content: left;
+    align-items: right;
+    margin-top: 150px;
+    margin-left: 105px;
+}
+
+.track__info__track__name {
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.track__info__track__artists {
+    font-size: 20px;
+    margin-top: -60px;
+}
+
+
+.track__image img {
+    width: 225px;
+    margin-right: 50px;
+
+}

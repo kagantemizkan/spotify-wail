@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import axios from "axios";
 import Header from "../header/Header"
-import Footer from "../footer/Footer"
 import { useStateProvider } from "../../utils/StateProvider";
 import { reducerCases } from "../../utils/Constants";
 import "./wail.css"

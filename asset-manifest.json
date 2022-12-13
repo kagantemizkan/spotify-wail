@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/spotify-wail/static/css/main.0a047675.css",
+    "main.css": "/spotify-wail/static/css/main.17bf9b6c.css",
     "main.js": "/spotify-wail/static/js/main.b53b4904.js",
     "static/media/spotifywail-transformed.png": "/spotify-wail/static/media/spotifywail-transformed.39892725c696ef3a2b56.png",
     "index.html": "/spotify-wail/index.html",
-    "main.0a047675.css.map": "/spotify-wail/static/css/main.0a047675.css.map",
+    "main.17bf9b6c.css.map": "/spotify-wail/static/css/main.17bf9b6c.css.map",
     "main.b53b4904.js.map": "/spotify-wail/static/js/main.b53b4904.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a047675.css",
+    "static/css/main.17bf9b6c.css",
     "static/js/main.b53b4904.js"
   ]
 }
